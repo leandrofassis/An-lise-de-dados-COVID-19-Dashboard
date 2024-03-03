@@ -1,4 +1,4 @@
-# Anlise-de-dados-COVID-19-Dashboard
+# Analise-de-dados-COVID-19-Dashboard
 
 
 COVID Dashboard
