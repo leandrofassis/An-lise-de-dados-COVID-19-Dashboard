@@ -9,7 +9,7 @@ COVID Dashboard
 
 O COVID-19 é uma doença causada pelo coronavírus SARS-CoV-2, que foi identificado pela primeira vez na cidade de Wuhan, na China, em dezembro de 2019. A doença é altamente contagiosa e se espalhou rapidamente pelo mundo, sendo declarada uma pandemia pela Organização Mundial da Saúde (OMS) em março de 2020.
 
-A disponibilidade de dados sobre a evolução da pandemia no tempo em uma determinada região geográfica é fundamental para o seu combate! Este projeto busca construir um dashboard de dados para exploração e visualização interativa de dados sobre o avanço de casos e da vacinação do Brasil. O processamento de dados está neste link( https://https://www.kaggle.com/code/leandrofassis/an-lise-de-dados-covid-19-dashboard/ ) e o dashboard, neste link(https://lookerstudio.google.com/reporting/bb1faefd-7e1b-4ced-b583-879cb111bff2).
+A disponibilidade de dados sobre a evolução da pandemia no tempo em uma determinada região geográfica é fundamental para o seu combate! Este projeto busca construir um dashboard de dados para exploração e visualização interativa de dados sobre o avanço de casos e da vacinação do Brasil. O processamento de dados está neste link( https://www.kaggle.com/code/leandrofassis/an-lise-de-dados-covid-19-dashboard ) e o dashboard, neste link(https://lookerstudio.google.com/reporting/bb1faefd-7e1b-4ced-b583-879cb111bff2).
 
 ## 1.2 Dados
 
